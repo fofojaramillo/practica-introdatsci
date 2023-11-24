@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-\data\csv-files
+data/csv-files
+data/bitacora.txt
 
 
 # C extensions
