@@ -5,6 +5,7 @@ __pycache__/
 
 data/csv-files
 data/bitacora.txt
+data/dengue_2022.csv
 
 
 # C extensions
